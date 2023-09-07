@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контактные данные клиентов</title>
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/choices.min.css"/>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <section class="main">
+    <div class="container">
+      <div class="search-form" id="form-app">
+        <img src="./logo.png" alt="Логотип" class="search-form__logo">
+      </div>
+      <div class="clients" id="clients-app"></div>
+      <dialog  id="favDialog" class="modal"></dialog>
+      <button class="button" id="add-client">
+        <svg width="23" height="16" viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M14.5 8C16.71 8 18.5 6.21 18.5 4C18.5 1.79 16.71 0 14.5 0C12.29 0 10.5 1.79 10.5 4C10.5 6.21 12.29 8 14.5 8ZM5.5 6V3H3.5V6H0.5V8H3.5V11H5.5V8H8.5V6H5.5ZM14.5 10C11.83 10 6.5 11.34 6.5 14V16H22.5V14C22.5 11.34 17.17 10 14.5 10Z" fill="#9873FF"/>
+        </svg>
+        Добавить клиента
+      </button>
+    </div>
+  </section>
+  <script src="./js/choices.min.js"></script>
+  <script src="https://unpkg.com/@popperjs/core@2"></script>
+  <script src="https://unpkg.com/tippy.js@6"></script>
+  <script defer type="module" src="./index.js"></script>
+</body>
+</html>
