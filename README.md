@@ -2,7 +2,7 @@
 
 Это приложение позволяет работать с контактной информацией клиентов.
 
-![the list of clients](https://github.com/laaleksandrova/contacts-client-app/blob/master/system_images/image_1.png?raw=true?=200x150)
+![the list of clients](https://github.com/laaleksandrova/contacts-client-app/blob/master/system_images/image_1.png=39%x)
 
 
 ## Функции
