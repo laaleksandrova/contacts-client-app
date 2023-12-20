@@ -2,10 +2,10 @@
 
 Это приложение позволяет работать с контактной информацией клиентов.
 
-<img src=“./system_images/image_1.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
-<img src=“./system_images/image_2.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
-<img src=“./system_images/image_3.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
-<img src=“./system_images/image_4.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
+<img src=“/system_images/image_1.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
+<img src=“/system_images/image_2.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
+<img src=“/system_images/image_3.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
+<img src=“/system_images/image_4.png” alt=“the list of clients” width="39%" style="max-width: 100%;"/>
 
 ## Функции
 
